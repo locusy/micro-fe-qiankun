@@ -6,5 +6,6 @@
   https://juejin.im/post/6875462470593904653
 
 # 安装步骤
-  
+  npm run install:main
+  npm run start:main
 
